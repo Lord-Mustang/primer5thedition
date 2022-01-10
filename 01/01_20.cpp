@@ -1,5 +1,5 @@
-#include"header.h"
-#include<iostream>
+#include <iostream>
+#include "header.h"
 #include"Sales_item.h"
 
 #if SWITCH == 0x0120
