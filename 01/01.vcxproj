@@ -149,6 +149,7 @@
     <ClCompile Include="01_16.cpp" />
     <ClCompile Include="01_17.cpp" />
     <ClCompile Include="01_18.cpp" />
+    <ClCompile Include="01_19.cpp" />
     <ClCompile Include="01_2.cpp" />
     <ClCompile Include="01_3.cpp" />
     <ClCompile Include="01_4.cpp" />
