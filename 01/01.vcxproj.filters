@@ -60,6 +60,9 @@
     <ClCompile Include="01_15.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="01_16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
