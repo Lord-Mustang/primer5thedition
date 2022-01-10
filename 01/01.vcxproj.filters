@@ -72,9 +72,18 @@
     <ClCompile Include="01_19.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="01_20.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sales_item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Version_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

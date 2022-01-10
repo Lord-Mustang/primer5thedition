@@ -151,6 +151,7 @@
     <ClCompile Include="01_18.cpp" />
     <ClCompile Include="01_19.cpp" />
     <ClCompile Include="01_2.cpp" />
+    <ClCompile Include="01_20.cpp" />
     <ClCompile Include="01_3.cpp" />
     <ClCompile Include="01_4.cpp" />
     <ClCompile Include="01_5.cpp" />
@@ -161,6 +162,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />
+    <ClInclude Include="Sales_item.h" />
+    <ClInclude Include="Version_test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
