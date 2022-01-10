@@ -9,6 +9,7 @@ int main() {
 	while (std::cin >> book) {
 		std::cout << book << std::endl;
 	}
+	return 0;
 }
 
 #endif // SWITCH == 0x0120
