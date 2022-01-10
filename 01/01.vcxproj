@@ -202,7 +202,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="header.h" />
     <ClInclude Include="Sales_item.h" />
     <ClInclude Include="Version_test.h" />
   </ItemGroup>

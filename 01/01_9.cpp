@@ -1,7 +1,4 @@
 #include <iostream>
-#include "header.h"
-
-#if SWITCH == 0x019
 
 int main() {
 	int sum = 0, val = 50;
@@ -12,5 +9,3 @@ int main() {
 	std::cout << "Sum of 50 to 100 exclusive is " << sum << std::endl;
 	return 0;
 }
-
-#endif // SWITCH == 0x019

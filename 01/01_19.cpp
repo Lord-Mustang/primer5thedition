@@ -1,7 +1,4 @@
 #include <iostream>
-#include "header.h"
-
-#if SWITCH == 0x0119
 
 int main() {
 	int v1 = 0, v2 = 0;
@@ -17,5 +14,3 @@ int main() {
 		std::cout << "First number not smaller than second number" << std::endl;
 	return 0;
 }
-
-#endif // SWITCH == 0x0119

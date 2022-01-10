@@ -1,7 +1,4 @@
 #include <iostream>
-#include "header.h"
-
-#if SWITCH == 0x0111
 
 int main() {
 	int v1 = 0, v2 = 0;
@@ -13,5 +10,3 @@ int main() {
 	}
 	return 0;
 }
-
-#endif // SWITCH == 0x0111

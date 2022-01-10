@@ -1,7 +1,4 @@
 #include <iostream>
-#include "header.h"
-
-#if SWITCH == 0x018
 
 int main() {
 	// std::cout << "/*";
@@ -15,5 +12,3 @@ int main() {
 	std::cout << "*/" << "/*";
 	return 0;
 }
-
-#endif // SWITCH == 0x018

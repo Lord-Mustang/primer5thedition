@@ -1,7 +1,4 @@
 #include <iostream>
-#include "header.h"
-
-#if SWITCH == 0x015
 
 int main() {
 	std::cout << "Enter two numbers:" << std::endl;
@@ -16,5 +13,3 @@ int main() {
 	std::cout << std::endl;
 	return 0;
 }
-
-#endif // SWITCH == 0x015

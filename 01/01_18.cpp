@@ -1,7 +1,4 @@
 #include <iostream>
-#include "header.h"
-
-#if SWITCH == 0x0118
 
 int main() {
     int curVal = 0, val = 0;
@@ -22,5 +19,3 @@ int main() {
     }
     return 0;
 }
-
-#endif //SWITCH == 0x0118

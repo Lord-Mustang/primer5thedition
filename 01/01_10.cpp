@@ -1,7 +1,4 @@
 #include <iostream>
-#include "header.h"
-
-#if SWITCH == 0x0110
 
 int main() {
 	int sub = 10;
@@ -11,5 +8,3 @@ int main() {
 	}
 	return 0;
 }
-
-#endif // SWITCH == 0x0110

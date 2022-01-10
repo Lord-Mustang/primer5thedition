@@ -1,7 +1,4 @@
 #include <iostream>
-#include "header.h"
-
-#if SWITCH == 0x0113
 
 int main() {
 	int sum = 0;
@@ -16,5 +13,3 @@ int main() {
 	}
 	return 0;
 }
-
-#endif // SWITCH == 0x0113
