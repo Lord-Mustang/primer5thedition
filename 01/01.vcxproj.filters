@@ -78,6 +78,9 @@
     <ClCompile Include="01_21.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="01_22.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sales_item.h">
