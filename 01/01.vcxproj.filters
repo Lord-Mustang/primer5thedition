@@ -84,6 +84,9 @@
     <ClCompile Include="01_23.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="01_25.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sales_item.h">
