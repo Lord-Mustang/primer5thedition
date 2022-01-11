@@ -81,6 +81,9 @@
     <ClCompile Include="01_22.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="01_23.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sales_item.h">
@@ -89,5 +92,8 @@
     <ClInclude Include="Version_test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="01_24.in" />
   </ItemGroup>
 </Project>
