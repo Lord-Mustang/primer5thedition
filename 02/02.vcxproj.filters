@@ -51,5 +51,8 @@
     <ClCompile Include="02_12.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="02_13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
