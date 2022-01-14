@@ -1,26 +1,26 @@
 #include <string>
 
 int main() {
-	char a = 'a';
-	wchar_t a = L'a';
-	std::string a = "a";
-	std::wstring a = L"a"; //wchar_t string
+	char a_char = 'a';
+	wchar_t a_wchar = L'a';
+	std::string a_str = "a";
+	std::wstring a_wstr = L"a"; //wchar_t string
 
-	int b = 10;
-	unsigned int b = 10u;
-	long b = 10L;
-	unsigned long b = 10uL;
-	unsigned int b = 012;
-	unsigned int b = 0xC;
+	int b_int = 10;
+	unsigned int b_uint = 10u;
+	long b_long = 10L;
+	unsigned long b_ulong = 10uL;
+	unsigned int b_oct = 012;
+	unsigned int b_hex = 0xC;
 
-	double c = 3.14;
-	float c = 3.14f;
-	long double c = 3.14L;
+	double c_double = 3.14;
+	float c_float = 3.14f;
+	long double c_ldouble = 3.14L;
 
-	int d = 10;
-	unsigned int d = 10u;
-	double d = 10.;
-	double d = 10e-2;
+	int d_int = 10;
+	unsigned int d_uint = 10u;
+	double d_double = 10.;
+	double d_double_scientific = 10e-2;
 
 	return 0;
 }

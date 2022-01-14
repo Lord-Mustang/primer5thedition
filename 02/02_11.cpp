@@ -1,6 +1,4 @@
-int main() {
-	extern int ix = 1024; // definition
-	int iy; // undefined, definition
-	extern int iz; // declaration
-	return 0;
-}
+/* extern int ix = 1024; // definition
+ * int iy; // undefined, definition
+ * extern int iz; // declaration
+*/
