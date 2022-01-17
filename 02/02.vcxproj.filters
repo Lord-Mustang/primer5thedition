@@ -84,5 +84,8 @@
     <ClCompile Include="02_23.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="02_24.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
