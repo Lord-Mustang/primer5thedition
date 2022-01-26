@@ -138,5 +138,13 @@
     <ClCompile Include="02_41.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="02_42.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sales_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
