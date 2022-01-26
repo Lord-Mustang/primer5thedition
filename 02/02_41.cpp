@@ -63,7 +63,6 @@ void ex01_23() {
 		Sales_data trans;
 		while (std::cin >> trans.bookNo >> trans.units_sold >> transPrice) {
 			if (total.bookNo == trans.bookNo) {
-				//total += trans;  
 				trans.revenue = transPrice * trans.units_sold;
 				total.revenue += trans.revenue;
 				total.units_sold += trans.units_sold;
@@ -78,6 +77,9 @@ void ex01_23() {
 }
 
 int main() {
-	ex01_23();
+	//ex01_20();
+	//ex01_21();
+	//ex01_22();
+	ex01_23(); // Also 1.24 and 1.25
 	return 0;
 }
